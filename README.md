@@ -238,11 +238,6 @@ credit-card-fraud-detection/
 │
 ├── notebooks/
 │   └── fraud_detection_analysis.ipynb
-│
-├── images/
-│   ├── shap_feature_importance.png
-│   └── shap_summary_plot.png
-│
 ├── README.md
 └── requirements.txt
 ```
